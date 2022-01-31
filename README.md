@@ -1,4 +1,4 @@
-# Infinite-Runner-game
+# infinite-runner-game
 
 A Infinite Runner Game.
 
